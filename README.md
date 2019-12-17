@@ -8,15 +8,12 @@ The main reference is https://www.epaperpress.com/lexandyacc/ which was publishe
 
 ## Contact the Author  
 
-***Special thanks*** :pray: for the instruction and advice from  
-
-*[Dr. Mohammed Alswaitti]
-
+***Special thanks*** :pray: 
+for the instruction and advice from *[Dr. Mohammed Alswaitti]
 (email: alswaitti.mohammed@xmu.edu.my tel: +(60)387055181) 
-
 (Assistant Professor in Xiamen University Malaysia of Department Electrical and Computer Engineering (ICT))*  
 
-also for the cooperation and joint offorts from the co-authors (Leo Kee Lin, Han Yiming, Wei Lan and Wang Xiaowei) of this report.
+also for the cooperation and joint efforts from the co-authors (Leo Kee Lin, Han Yiming, Wei Lan and Wang Xiaowei) of this report.
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
 
