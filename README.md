@@ -6,6 +6,8 @@ The aim of this report is to show how practically the compiler works. I will use
 
 The main reference is https://www.epaperpress.com/lexandyacc/ which was published by Tom Niemann from Portland explaining how to construct a compiler using Lex and Yacc. Flex and Bison on Ubuntu were used as main tools to run the compiler, more instructions and information for related installation can be found in the Lab Report.
 
+A user manual for manipulation was also given within the above files.
+
 ## Contact the Author  
 
 ***Special thanks*** :pray: 
