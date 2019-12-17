@@ -9,7 +9,9 @@ The main reference is https://www.epaperpress.com/lexandyacc/ which was publishe
 ## Contact the Author  
 
 ***Special thanks*** :pray: 
-for the instruction and advice from *[Dr. Mohammed Alswaitti]
+for the instruction and advice from 
+*[Dr. Mohammed Alswaitti]
+
 (email: alswaitti.mohammed@xmu.edu.my tel: +(60)387055181) 
 (Assistant Professor in Xiamen University Malaysia of Department Electrical and Computer Engineering (ICT))*  
 
