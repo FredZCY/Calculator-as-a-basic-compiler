@@ -8,7 +8,7 @@ The main reference is https://www.epaperpress.com/lexandyacc/ which was publishe
 
 ## Contact the Author  
 
-***Special thanks*** :pray: to the instruction and advice from  
+***Special thanks*** :pray: for the instruction and advice from  
 
 *[Dr. Mohammed Alswaitti]
 
@@ -16,6 +16,7 @@ The main reference is https://www.epaperpress.com/lexandyacc/ which was publishe
 
 (Assistant Professor in Xiamen University Malaysia of Department Electrical and Computer Engineering (ICT))*  
 
+also for the cooperation and joint offorts from the co-authors (Leo Kee Lin, Han Yiming, Wei Lan and Wang Xiaowei) of this report.
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
 
