@@ -1,4 +1,4 @@
-# Calculator-as-a-basic-compiler-
+# Calculator as a basic compiler
 
 ## Introduction
 
