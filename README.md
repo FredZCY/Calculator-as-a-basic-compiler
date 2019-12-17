@@ -6,8 +6,7 @@ Flex and Bison on Ubuntu were used as main tools to run the compiler, more instr
 
 ***Special thanks*** :pray: to the instruction and advice from  
 
-*[Dr. Fan Zhang (张帆)](http://www.mit.edu/~f_zhang/) (Watson Core Platform Service IBM Massachusetts Labratory)*  
-
+*[Dr. Mohammed Alswaitti](alswaitti.mohammed@xmu.edu.my tel: +(60)387055181) (Assistant Professor in Xiamen University Malaysia of Department Electrical and Computer Engineering (ICT))*  
 
 If you got any enquiries or suggestions, I'm all ears :sunglasses:  
 
